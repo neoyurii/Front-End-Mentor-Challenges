@@ -13,12 +13,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./screenshot.jpg)
-!["Desktop Version"](./ScreenShots/Frontend%20Mentor%20QR%20code%20component%20-%20Desktop.png)
-!["Mobile Version"](./ScreenShots/Frontend%20Mentor%20QR%20code%20component%20-%20Mobile.png)
+["Desktop Version"](./ScreenShots/Frontend%20Mentor%20QR%20code%20component%20-%20Desktop.png)
+["Mobile Version"](./ScreenShots/Frontend%20Mentor%20QR%20code%20component%20-%20Mobile.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://neo-yurii-qrcodecomponent.netlify.app/
 
 ## My process
 
